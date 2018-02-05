@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: THB Portfolio\n"
+"POT-Creation-Date: 2013-12-05 16:20+0100\n"
+"PO-Revision-Date: 2014-06-28 23:28+0600\n"
+"Last-Translator: Alexander Goncharov <luzlol17@gmail.com>\n"
+"Language-Team: THBThemes <thehappybit@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../thb-portfolio.php:177
+msgid "Portfolio sidebar"
+msgstr "Сайдбар для портфолио"
+
+#: ../inc/options.php:29 ../inc/posttype.php:30
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: ../inc/options.php:33
+msgid "URL slug"
+msgstr "Ссылка верхнего уровня"
+
+#: ../inc/options.php:34
+#, php-format
+msgid ""
+"URL slug for Portfolio items. Defaults to \"works\". Remember to <a href=\"%s"
+"\">re-save the site's permalinks</a>."
+msgstr ""
+"Ссылка верхнего уровня для элементов портфолио. По умолчанию \"works\". Не "
+"забудьте <a href=\"%s\">пересохранить постоянные ссылки</a>."
+
+#: ../inc/options.php:39
+msgid "Enable navigation between Portfolio items"
+msgstr "Включить навигацию между элементами портфолио"
+
+#: ../inc/options.php:45
+msgid "Select the Portfolio index"
+msgstr "Заглавная страница"
+
+#: ../inc/options.php:46
+msgid ""
+"Choose the index page for your portfolio items \"back to portfolio\" link."
+msgstr "Выберите заглавную страницу для ссылки \"назад в портфолио\"."
+
+#: ../inc/options.php:64
+msgid "Portfolio items"
+msgstr "Элементы портфолио"
+
+#: ../inc/options.php:80
+msgid "Use AJAX pagination"
+msgstr "Использовать AJAX пагинацию"
+
+#: ../inc/options.php:81
+msgid ""
+"If the page template supports this feature (e.g. its items are filterable), "
+"enabling AJAX pagination won't refresh your page while filtering through "
+"Portfolio items."
+msgstr ""
+"Если шаблон страницы поддерживают (например, если элементы можно "
+"отфильтровать), то включение AJAX пагинации не будет перезагружать страницу "
+"во время переходов по элементам."
+
+#: ../inc/options.php:101
+msgid "Related works"
+msgstr "Похожие элементы"
+
+#: ../inc/options.php:104
+msgid "Enable a related works section"
+msgstr "Включить секцию похожих элементов"
+
+#: ../inc/options.php:105
+msgid ""
+"Selecting \"Yes\" automatically creates a \"related works\" section at the "
+"bottom of a Portfolio item page."
+msgstr ""
+"При выборе \"Да\" автоматически создается секция \"похожие элементы\" внизу "
+"страницы каждого элемента."
+
+#: ../inc/options.php:110
+msgid "Related works to show"
+msgstr "Количество элементов"
+
+#: ../inc/options.php:111
+msgid "Choose how many related works you want to display. Defaults to 3."
+msgstr ""
+"Выберите сколько похожих элементов вы хотите отображать. По умолчанию: 3."
+
+#: ../inc/options.php:116
+msgid "Show thumbnails in related works"
+msgstr "Показывать миниатюры для похожих элементов"
+
+#: ../inc/options.php:117
+msgid "Choose to enable the display of thumbnails for related works."
+msgstr ""
+"Выберите, чтобы отображать изображения-миниатюры для похожих элементов."
+
+#: ../inc/options.php:123
+msgid "Work images and videos"
+msgstr "Изображения и видео"
+
+#: ../inc/options.php:135
+msgid "Add images"
+msgstr "Добавить изображения"
+
+#: ../inc/options.php:137
+msgid "Add image slides"
+msgstr "Добавить изображения-слайды"
+
+#: ../inc/options.php:140
+msgid "Add video"
+msgstr "Добавить видео"
+
+#: ../inc/options.php:142
+msgid "Add video slide"
+msgstr "Добавить видео-слайды"
+
+#: ../inc/options.php:146
+msgid "Slide"
+msgstr "Слайд"
+
+#: ../inc/options.php:155
+msgid "Project details"
+msgstr "Детали элементы"
+
+#: ../inc/options.php:161
+msgid "Insert here your project details (Note: accepts basic HTML)."
+msgstr ""
+"Укажите здесь подробности относительно элемента портфолио (Внимание: "
+"допускается базовый HTML)."
+
+#: ../inc/options.php:166
+msgid "Add"
+msgstr "Добавить"
+
+#: ../inc/options.php:169
+msgid "Detail"
+msgstr "Деталь"
+
+#: ../inc/posttype.php:31
+msgid "Work"
+msgstr "Элемент"
+
+#: ../inc/posttype.php:32
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: ../inc/posttype.php:33
+msgid "Add new Work"
+msgstr "Добавить новый элемент"
+
+#: ../inc/posttype.php:34
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../inc/posttype.php:35
+msgid "Edit Work"
+msgstr "Редактировать элемент"
+
+#: ../inc/posttype.php:36
+msgid "New Work"
+msgstr "Новый элемент"
+
+#: ../inc/posttype.php:37 ../inc/posttype.php:38
+msgid "View Work"
+msgstr "Просмотреть элемент"
+
+#: ../inc/posttype.php:39
+msgid "Search Works"
+msgstr "Поиск элементов"
+
+#: ../inc/posttype.php:40
+msgid "No Works found"
+msgstr "Элементы не найдены"
+
+#: ../inc/posttype.php:41
+msgid "No Works found in Trash"
+msgstr "Элементы в корзине не найдены"
+
+#: ../inc/posttype.php:42
+msgid "Parent Work"
+msgstr "Родительский элемент"
+
+#: ../inc/posttype.php:86
+msgid "Portfolio Categories"
+msgstr "Категории портфолио"
+
+#: ../inc/posttype.php:87 ../inc/posttype.php:96
+msgid "Portfolio Category"
+msgstr "Категория портфолио"
+
+#: ../inc/posttype.php:88
+msgid "Search Portfolio Categories"
+msgstr "Поиск по категориям портфолио"
+
+#: ../inc/posttype.php:89
+msgid "All Portfolio Categories"
+msgstr "Все категории портфолио"
+
+#: ../inc/posttype.php:90
+msgid "Parent Portfolio Category"
+msgstr "Родительская категория портфолио"
+
+#: ../inc/posttype.php:91
+msgid "Parent Portfolio Category:"
+msgstr "Родительская категория портфолио:"
+
+#: ../inc/posttype.php:92
+msgid "Edit Portfolio Category"
+msgstr "Редактировать категорию портфолио"
+
+#: ../inc/posttype.php:93
+msgid "Update Portfolio Category"
+msgstr "Обновить категорию портфолио"
+
+#: ../inc/posttype.php:94
+msgid "Add New Portfolio Category"
+msgstr "Добавить новую категорию портфолио"
+
+#: ../inc/posttype.php:95
+msgid "New Portfolio Category Name"
+msgstr "Название новой категории портфолио"
+
+#: ../templates/portfolio-filter.php:13
+msgid "All"
+msgstr "Все"

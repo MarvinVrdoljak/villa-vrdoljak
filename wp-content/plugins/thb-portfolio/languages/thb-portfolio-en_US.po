@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: THB Portfolio\n"
+"POT-Creation-Date: 2013-12-05 16:20+0100\n"
+"PO-Revision-Date: 2013-12-05 16:21+0100\n"
+"Last-Translator: The Happy Bit <thehappybit@gmail.com>\n"
+"Language-Team: THBThemes <thehappybit@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../thb-portfolio.php:177
+msgid "Portfolio sidebar"
+msgstr ""
+
+#: ../inc/options.php:29 ../inc/posttype.php:30
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/options.php:33
+msgid "URL slug"
+msgstr ""
+
+#: ../inc/options.php:34
+#, php-format
+msgid ""
+"URL slug for Portfolio items. Defaults to \"works\". Remember to <a href=\"%s"
+"\">re-save the site's permalinks</a>."
+msgstr ""
+
+#: ../inc/options.php:39
+msgid "Enable navigation between Portfolio items"
+msgstr ""
+
+#: ../inc/options.php:45
+msgid "Select the Portfolio index"
+msgstr ""
+
+#: ../inc/options.php:46
+msgid ""
+"Choose the index page for your portfolio items \"back to portfolio\" link."
+msgstr ""
+
+#: ../inc/options.php:64
+msgid "Portfolio items"
+msgstr ""
+
+#: ../inc/options.php:80
+msgid "Use AJAX pagination"
+msgstr ""
+
+#: ../inc/options.php:81
+msgid ""
+"If the page template supports this feature (e.g. its items are filterable), "
+"enabling AJAX pagination won't refresh your page while filtering through "
+"Portfolio items."
+msgstr ""
+
+#: ../inc/options.php:101
+msgid "Related works"
+msgstr ""
+
+#: ../inc/options.php:104
+msgid "Enable a related works section"
+msgstr ""
+
+#: ../inc/options.php:105
+msgid ""
+"Selecting \"Yes\" automatically creates a \"related works\" section at the "
+"bottom of a Portfolio item page."
+msgstr ""
+
+#: ../inc/options.php:110
+msgid "Related works to show"
+msgstr ""
+
+#: ../inc/options.php:111
+msgid "Choose how many related works you want to display. Defaults to 3."
+msgstr ""
+
+#: ../inc/options.php:116
+msgid "Show thumbnails in related works"
+msgstr ""
+
+#: ../inc/options.php:117
+msgid "Choose to enable the display of thumbnails for related works."
+msgstr ""
+
+#: ../inc/options.php:123
+msgid "Work images and videos"
+msgstr ""
+
+#: ../inc/options.php:135
+msgid "Add images"
+msgstr ""
+
+#: ../inc/options.php:137
+msgid "Add image slides"
+msgstr ""
+
+#: ../inc/options.php:140
+msgid "Add video"
+msgstr ""
+
+#: ../inc/options.php:142
+msgid "Add video slide"
+msgstr ""
+
+#: ../inc/options.php:146
+msgid "Slide"
+msgstr ""
+
+#: ../inc/options.php:155
+msgid "Project details"
+msgstr ""
+
+#: ../inc/options.php:161
+msgid "Insert here your project details (Note: accepts basic HTML)."
+msgstr ""
+
+#: ../inc/options.php:166
+msgid "Add"
+msgstr ""
+
+#: ../inc/options.php:169
+msgid "Detail"
+msgstr ""
+
+#: ../inc/posttype.php:31
+msgid "Work"
+msgstr ""
+
+#: ../inc/posttype.php:32
+msgid "Add new"
+msgstr ""
+
+#: ../inc/posttype.php:33
+msgid "Add new Work"
+msgstr ""
+
+#: ../inc/posttype.php:34
+msgid "Edit"
+msgstr ""
+
+#: ../inc/posttype.php:35
+msgid "Edit Work"
+msgstr ""
+
+#: ../inc/posttype.php:36
+msgid "New Work"
+msgstr ""
+
+#: ../inc/posttype.php:37 ../inc/posttype.php:38
+msgid "View Work"
+msgstr ""
+
+#: ../inc/posttype.php:39
+msgid "Search Works"
+msgstr ""
+
+#: ../inc/posttype.php:40
+msgid "No Works found"
+msgstr ""
+
+#: ../inc/posttype.php:41
+msgid "No Works found in Trash"
+msgstr ""
+
+#: ../inc/posttype.php:42
+msgid "Parent Work"
+msgstr ""
+
+#: ../inc/posttype.php:86
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../inc/posttype.php:87 ../inc/posttype.php:96
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../inc/posttype.php:88
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../inc/posttype.php:89
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../inc/posttype.php:90
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../inc/posttype.php:91
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../inc/posttype.php:92
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../inc/posttype.php:93
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../inc/posttype.php:94
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../inc/posttype.php:95
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../templates/portfolio-filter.php:13
+msgid "Alle"
+msgstr ""
